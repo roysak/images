@@ -1,0 +1,11 @@
+<svg id="IconApproved24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_3133" data-name="Rectangle 3133" fill="#003c51" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <g id="Group_3915" data-name="Group 3915" transform="translate(-292 -396.727)">
+    <path id="Path_1885" data-name="Path 1885" d="M9.275,1.2A8.075,8.075,0,1,0,17.35,9.275,8.084,8.084,0,0,0,9.275,1.2m0-1.2A9.275,9.275,0,1,1,0,9.275,9.275,9.275,0,0,1,9.275,0Z" transform="translate(294.725 399.452)" fill="#003c51"/>
+    <path id="Path_1664" data-name="Path 1664" d="M0,6.019a.6.6,0,0,1-.6-.6V0A.6.6,0,0,1,0-.6.6.6,0,0,1,.6,0V5.419A.6.6,0,0,1,0,6.019Z" transform="translate(310.309 415.037) rotate(-45)" fill="#003c51"/>
+    <path id="Path_1665" data-name="Path 1665" d="M14546.146-17160.461l-2.3-2.3a.6.6,0,0,1,0-.848.6.6,0,0,1,.849,0l1.364,1.367,3.817-4.594a.6.6,0,0,1,.846-.078.6.6,0,0,1,.078.844Z" transform="translate(-14243.207 17572.566)" fill="#003c51"/>
+  </g>
+</svg>

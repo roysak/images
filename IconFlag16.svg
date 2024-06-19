@@ -1,0 +1,6 @@
+<svg id="IconFlag16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="IconFlag16-2" data-name="IconFlag16" transform="translate(-0.001 0)">
+    <rect id="Rectangle" width="16" height="16" transform="translate(0.001 0)" fill="rgba(216,216,216,0)" opacity="0"/>
+    <path id="flag-01" d="M4,7.454a2.749,2.749,0,0,1,1.882-.47c1.411,0,2.352.941,3.763.941a2.749,2.749,0,0,0,1.882-.47V2.47a2.749,2.749,0,0,1-1.882.47C8.234,2.941,7.293,2,5.882,2A2.749,2.749,0,0,0,4,2.47v8.938" transform="translate(0.239 1.296)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>

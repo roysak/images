@@ -1,0 +1,9 @@
+<svg id="IconConnector24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="IconConnector24-2" data-name="IconConnector24" transform="translate(1 1)">
+    <rect id="Rectangle_502" data-name="Rectangle 502" width="24" height="24" transform="translate(-1 -1)" fill="#fff" opacity="0"/>
+    <path id="Rectangle_4081" data-name="Rectangle 4081" d="M3.914,0H5.871a0,0,0,0,1,0,0V7.828a0,0,0,0,1,0,0H3.914A3.914,3.914,0,0,1,0,3.914v0A3.914,3.914,0,0,1,3.914,0Z" transform="translate(2.049 14.455) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Rectangle_4082" data-name="Rectangle 4082" d="M0,0H1.957A3.914,3.914,0,0,1,5.871,3.914v0A3.914,3.914,0,0,1,1.957,7.828H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(10.352 6.152) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <line id="Line_860" data-name="Line 860" y1="0.031" x2="2.813" transform="translate(7.884 11.793) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+    <line id="Line_861" data-name="Line 861" y1="0.031" x2="2.813" transform="translate(10.441 14.343) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+  </g>
+</svg>

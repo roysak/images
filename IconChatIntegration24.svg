@@ -1,0 +1,16 @@
+<svg id="IconChatIntegration24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="IconChatIntegration24-2" data-name="IconChatIntegration24" transform="translate(1 1)">
+    <rect id="Rectangle_502" data-name="Rectangle 502" width="24" height="24" transform="translate(-1 -1)" fill="#fff" opacity="0"/>
+    <g id="Group_4717" data-name="Group 4717" transform="translate(-0.054 0.75)">
+      <line id="Line_870" data-name="Line 870" x2="16" transform="translate(3.054 17.25)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+      <g id="Ellipse_464" data-name="Ellipse 464" transform="translate(5.054 2.25)" fill="#fff" stroke="#003c51" stroke-width="1.2">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5.4" fill="none"/>
+      </g>
+      <line id="Line_871" data-name="Line 871" y2="3" transform="translate(11.054 14.25)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.4"/>
+      <path id="Path_3127" data-name="Path 3127" d="M0,0A7.085,7.085,0,0,1,0,9.516" transform="translate(11.054 3.492)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="Path_3128" data-name="Path 3128" d="M1.637,0a7.734,7.734,0,0,0,0,9.516" transform="translate(9.217 3.492)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+      <line id="Line_875" data-name="Line 875" x2="10" transform="translate(6.054 8.25)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

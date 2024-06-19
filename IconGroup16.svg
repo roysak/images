@@ -1,0 +1,33 @@
+<svg id="IconGroup16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="IconGroup16-2" data-name="IconGroup16" transform="translate(-1793 -135)">
+    <rect id="Rectangle" width="16" height="16" transform="translate(1793 135)" fill="rgba(216,216,216,0)" opacity="0"/>
+    <g id="Rectangle_4070" data-name="Rectangle 4070" transform="translate(1795.5 137.5)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="1.996" height="1.996" rx="0.998" stroke="none"/>
+      <rect x="0.6" y="0.6" width="0.796" height="0.796" rx="0.398" fill="none"/>
+    </g>
+    <g id="Rectangle_4075" data-name="Rectangle 4075" transform="translate(1798 142.699)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="4" height="3.2" rx="1" stroke="none"/>
+      <rect x="0.6" y="0.6" width="2.8" height="2" rx="0.4" fill="none"/>
+    </g>
+    <g id="Rectangle_4077" data-name="Rectangle 4077" transform="translate(1800 140.102)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="4" height="3.2" rx="1" stroke="none"/>
+      <rect x="0.6" y="0.6" width="2.8" height="2" rx="0.4" fill="none"/>
+    </g>
+    <g id="Rectangle_4073" data-name="Rectangle 4073" transform="translate(1795.5 146.5)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="1.996" height="1.996" rx="0.998" stroke="none"/>
+      <rect x="0.6" y="0.6" width="0.796" height="0.796" rx="0.398" fill="none"/>
+    </g>
+    <g id="Rectangle_4071" data-name="Rectangle 4071" transform="translate(1804.5 137.5)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="1.996" height="1.996" rx="0.998" stroke="none"/>
+      <rect x="0.6" y="0.6" width="0.796" height="0.796" rx="0.398" fill="none"/>
+    </g>
+    <g id="Rectangle_4072" data-name="Rectangle 4072" transform="translate(1804.5 146.5)" fill="none" stroke="#003c51" stroke-width="1.2">
+      <rect width="1.996" height="1.996" rx="0.998" stroke="none"/>
+      <rect x="0.6" y="0.6" width="0.796" height="0.796" rx="0.398" fill="none"/>
+    </g>
+    <line id="Line_853" data-name="Line 853" y2="5" transform="translate(1796.5 141)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2" stroke-dasharray="0 2"/>
+    <line id="Line_854" data-name="Line 854" y2="5" transform="translate(1805.5 141)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2" stroke-dasharray="0 2"/>
+    <line id="Line_855" data-name="Line 855" y2="5" transform="translate(1799 147.498) rotate(-90)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2" stroke-dasharray="0 2"/>
+    <line id="Line_856" data-name="Line 856" y2="5" transform="translate(1799 138.498) rotate(-90)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2" stroke-dasharray="0 2"/>
+  </g>
+</svg>

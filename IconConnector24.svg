@@ -1,0 +1,17 @@
+<svg id="IconConnector24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="IconConnector24-2" data-name="IconConnector24" transform="translate(-493 -341)">
+    <rect id="Rectangle" width="24" height="24" transform="translate(493 341)" fill="none" opacity="0"/>
+    <g id="Group_4726" data-name="Group 4726" transform="translate(-104.046 460.325) rotate(-45)">
+      <g id="Ellipse_445" data-name="Ellipse 445" transform="translate(504.12 352.245)" fill="none" stroke="#003c51" stroke-width="1.2">
+        <circle cx="2.525" cy="2.525" r="2.525" stroke="none"/>
+        <circle cx="2.525" cy="2.525" r="1.925" fill="none"/>
+      </g>
+      <g id="Group_4728" data-name="Group 4728" transform="translate(502.113 359.144) rotate(-90)">
+        <path id="Path_3165" data-name="Path 3165" d="M8.7.148A4.419,4.419,0,0,1,4.373,3.329,4.655,4.655,0,0,1,0,0" transform="translate(0 5.739)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+        <path id="Path_3166" data-name="Path 3166" d="M8.7.148A4.419,4.419,0,0,1,4.373,3.329,4.655,4.655,0,0,1,0,0" transform="translate(8.747 3.329) rotate(180)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+      </g>
+      <path id="Path_3122" data-name="Path 3122" d="M0,0,3.449,3.449" transform="translate(511.181 354.918) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="Path_3164" data-name="Path 3164" d="M3.585,3.585,0,0" transform="translate(497.042 354.83) rotate(-45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

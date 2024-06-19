@@ -1,0 +1,11 @@
+<svg id="IconClear12" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="IconClear12-2" data-name="IconClear12">
+    <rect id="Rectangle" width="12" height="12" fill="rgba(216,216,216,0)"/>
+    <g id="Group">
+      <rect id="Rectangle-2" data-name="Rectangle" width="12" height="12" fill="rgba(216,216,216,0)"/>
+      <g id="Group-2" data-name="Group" transform="translate(2.913 2.913)">
+        <path id="Union_42" data-name="Union 42" d="M23410.977,21082.824l-2.307-2.307-2.307,2.307a.6.6,0,0,1-.852,0,.6.6,0,0,1,0-.846l2.309-2.311-2.309-2.309a.6.6,0,0,1,0-.852.6.6,0,0,1,.846,0l2.313,2.313,2.313-2.312a.6.6,0,0,1,.846,0,.6.6,0,0,1,0,.852l-2.309,2.309,2.309,2.311a.6.6,0,0,1-.852.846Z" transform="translate(-23405.582 -21076.58)" fill="#003c51"/>
+      </g>
+    </g>
+  </g>
+</svg>

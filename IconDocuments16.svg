@@ -1,0 +1,13 @@
+<svg id="IconDocuments16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Rectangle_3599" data-name="Rectangle 3599" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="16" height="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="15" height="15" fill="none"/>
+  </g>
+  <g id="Group_4649" data-name="Group 4649" transform="translate(-890.066 -346.5)">
+    <path id="Line_539" data-name="Line 539" d="M3.588.6H0A.6.6,0,0,1-.6,0,.6.6,0,0,1,0-.6H3.588a.6.6,0,0,1,.6.6A.6.6,0,0,1,3.588.6Z" transform="translate(895.427 352.994)" fill="#003c51"/>
+    <path id="Line_545" data-name="Line 545" d="M3.588.6H0A.6.6,0,0,1-.6,0,.6.6,0,0,1,0-.6H3.588a.6.6,0,0,1,.6.6A.6.6,0,0,1,3.588.6Z" transform="translate(895.427 355.744)" fill="#003c51"/>
+    <path id="Rectangle_2387" data-name="Rectangle 2387" d="M2,1.2a.8.8,0,0,0-.8.8V9.25a.8.8,0,0,0,.8.8H7.983a.8.8,0,0,0,.8-.8V2a.8.8,0,0,0-.8-.8H2M2,0H7.983a2,2,0,0,1,2,2V9.25a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(892.146 347.938)" fill="#003c51"/>
+    <path id="Path_2600" data-name="Path 2600" d="M-9372.287-17229.912a.6.6,0,0,0-.6.6v7.4a1.87,1.87,0,0,1-1,1.834,2.8,2.8,0,0,1-1.126.291h-5.562a.6.6,0,0,0-.6.6.6.6,0,0,0,.6.6h5.565a3.744,3.744,0,0,0,2.435-.975,3.181,3.181,0,0,0,.886-2.35v-7.4A.6.6,0,0,0-9372.287-17229.912Z" transform="translate(10275.673 17579.654)" fill="#003c51"/>
+    <path id="Ellipse_152_-_Outline" data-name="Ellipse 152 - Outline" d="M.5,0A.5.5,0,1,1,0,.5.5.5,0,0,1,.5,0Z" transform="translate(895 350.381)" fill="#003c51"/>
+  </g>
+</svg>

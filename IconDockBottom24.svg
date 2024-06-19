@@ -1,0 +1,8 @@
+<svg id="IconDockBottom24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_3582" data-name="Rectangle 3582" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Rectangle_3581" data-name="Rectangle 3581" d="M4,.2A2.8,2.8,0,0,0,1.2,3v8A2.8,2.8,0,0,0,4,13.8h8A2.8,2.8,0,0,0,14.8,11V3A2.8,2.8,0,0,0,12,.2H4M4-1h8a4,4,0,0,1,4,4v8a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V3A4,4,0,0,1,4-1Z" transform="translate(4 5)" fill="#003c51"/>
+  <path id="Line_843" data-name="Line 843" d="M15,.6H0V-.6H15Z" transform="translate(4.5 13.5)" fill="#003c51"/>
+</svg>

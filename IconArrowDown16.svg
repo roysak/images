@@ -1,0 +1,6 @@
+<svg id="IconArrowDown16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="IconArrowRight16" transform="translate(16) rotate(90)">
+    <rect id="Rectangle_235" data-name="Rectangle 235" width="16" height="16" fill="none" opacity="0"/>
+    <path id="Path_2" data-name="Path 2" d="M-4,4.6a.6.6,0,0,1-.424-.176l-4-4a.6.6,0,0,1,0-.849.6.6,0,0,1,.849,0L-4,3.151-.424-.424a.6.6,0,0,1,.849,0,.6.6,0,0,1,0,.849l-4,4A.6.6,0,0,1-4,4.6Z" transform="translate(6 4) rotate(-90)" fill="#003c51"/>
+  </g>
+</svg>

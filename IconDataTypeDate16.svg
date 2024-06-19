@@ -1,0 +1,13 @@
+<svg id="IconDataTypeDate16" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="IconDataTypeDate16-2" data-name="IconDataTypeDate16">
+    <rect id="Rectangle" width="24" height="24" fill="#fff" opacity="0.69"/>
+    <g id="Rectangle_3166" data-name="Rectangle 3166" transform="translate(4 6)" fill="none" stroke="#878f9d" stroke-width="1.2">
+      <rect width="16" height="14" rx="3" stroke="none"/>
+      <rect x="0.6" y="0.6" width="14.8" height="12.8" rx="2.4" fill="none"/>
+    </g>
+    <line id="Line_809" data-name="Line 809" x2="14.613" transform="translate(4.693 9.921)" fill="none" stroke="#878f9d" stroke-width="1.2"/>
+    <line id="Line_810" data-name="Line 810" y2="2.472" transform="translate(8.991 5.188)" fill="none" stroke="#878f9d" stroke-linecap="round" stroke-width="1.2"/>
+    <line id="Line_811" data-name="Line 811" y2="2.472" transform="translate(15.009 5.188)" fill="none" stroke="#878f9d" stroke-linecap="round" stroke-width="1.2"/>
+    <path id="Path_2824" data-name="Path 2824" d="M11.159,12.9l1.457-.869V16.62" transform="translate(-0.489 0.034)" fill="none" stroke="#878f9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>

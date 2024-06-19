@@ -1,0 +1,10 @@
+<svg id="IconEdit24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_3591" data-name="Rectangle 3591" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <g id="Group_4632" data-name="Group 4632" transform="translate(-1232 -316)">
+    <path id="Path_2968_-_Outline" data-name="Path 2968 - Outline" d="M1.119,2.057,1.2,11.482c.286.346.618.723.942,1.091.191.217.376.427.549.628.4-.432,1.144-1.237,1.6-1.749L4.214,2.057H1.119M.835.857H4.5a.916.916,0,0,1,.916.916l.081,10.133c-.452.524-2.264,2.493-2.264,2.461l-.531.281-.594-.281C1.512,13.648.606,12.68,0,11.906L-.081,1.773A.916.916,0,0,1,.835.857Z" transform="translate(1245.998 321.836) rotate(45)" fill="#003c51"/>
+    <path id="Path_2969" data-name="Path 2969" d="M4.258.6H0A.6.6,0,0,1,0-.6H4.258a.6.6,0,0,1,0,1.2Z" transform="translate(1247.942 320.766) rotate(45)" fill="#003c51"/>
+  </g>
+</svg>

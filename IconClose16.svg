@@ -1,0 +1,7 @@
+<svg id="IconClose16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group" transform="translate(4.219 4.219)">
+    <rect id="Rectangle_229" data-name="Rectangle 229" width="16" height="16" transform="translate(-4.219 -4.219)" fill="none"/>
+    <path id="Line_2" data-name="Line 2" d="M0,.5H9.7" transform="translate(0.707 0) rotate(45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="Line_2-2" data-name="Line 2" d="M.5,9.7V0" transform="translate(6.857 0) rotate(45)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+  </g>
+</svg>

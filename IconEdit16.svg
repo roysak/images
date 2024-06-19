@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><g transform="translate(1 1)"><rect width="16" height="16" transform="translate(-1 -1)" fill="none"/><path d="M22598.5,20991.6v-2.9h-2.9a.6.6,0,1,1,0-1.2h2.9v-2.9a.6.6,0,0,1,1.2,0v2.9h2.9a.6.6,0,1,1,0,1.2h-2.9v2.9a.6.6,0,0,1-1.2,0Z" transform="translate(-22592.1 -20981.1)" fill="#0E1E3A"/></g></svg>
+<svg id="IconEdit16" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="IconEdit16-2" data-name="IconEdit16" transform="translate(1 1)">
+    <rect id="Rectangle" width="16" height="16" transform="translate(-1 -1)" fill="rgba(216,216,216,0)"/>
+    <path id="Union_36" data-name="Union 36" d="M23388.848,20993.395a.594.594,0,0,1-.6-.6v-2a.58.58,0,0,1,.176-.424l3.945-3.951a.6.6,0,0,1,.852,0l2,2a.593.593,0,0,1,0,.846l-3.945,3.951a.6.6,0,0,1-.428.172Zm.6-2.35v1.15h1.15l3.354-3.346-1.156-1.152Zm6.924-3.775-2-2a.6.6,0,0,1,0-.852.6.6,0,0,1,.846,0l2,2a.6.6,0,0,1,0,.846.607.607,0,0,1-.426.176A.6.6,0,0,1,23396.371,20987.27Z" transform="translate(-23385.322 -20982.322)" fill="#003c51"/>
+  </g>
+</svg>
