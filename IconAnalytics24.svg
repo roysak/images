@@ -1,10 +1,1 @@
-<svg id="IconAnalytics24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="IconAnalytics24-2" data-name="IconAnalytics24" transform="translate(1 1)">
-    <rect id="Rectangle_502" data-name="Rectangle 502" width="24" height="24" transform="translate(-1 -1)" fill="#fff" opacity="0"/>
-    <path id="Path_3107" data-name="Path 3107" d="M3.2,8.715V12.54" transform="translate(3.141 4.393)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
-    <path id="Path_3108" data-name="Path 3108" d="M3.2,8.715v6.541" transform="translate(6.528 1.676)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
-    <path id="Path_3109" data-name="Path 3109" d="M3.2,8.715V13.2" transform="translate(9.917 3.733)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
-    <path id="Path_3110" data-name="Path 3110" d="M3.2,8.715v8.7" transform="translate(13.303 -0.484)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/>
-    <path id="Path_3111" data-name="Path 3111" d="M2.463,9.105l4.4-3.541,3.4,2.373,3.591-4.753" transform="translate(2.841 1.883)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><rect width="24" height="24" fill="#fff" opacity="0"/><path d="M3.2,8.715V12.54" transform="translate(4.141 5.393)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/><path d="M3.2,8.715v6.541" transform="translate(7.528 2.676)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/><path d="M3.2,8.715V13.2" transform="translate(10.917 4.733)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/><path d="M3.2,8.715v8.7" transform="translate(14.303 0.516)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-width="1.2"/><path d="M2.463,9.105l4.4-3.541,3.4,2.373,3.591-4.753" transform="translate(3.841 2.883)" fill="none" stroke="#003c51" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/></svg>
